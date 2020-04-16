@@ -10,7 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
-    "hbs": "^4.0.4",
+    "handlebars": "^4.7.6",
+    "hbs": "^4.1.1",
+    "minimist": "^1.2.5",
     "request": "^2.88.0",
     "yargs": "^13.3.0"
   }
