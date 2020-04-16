@@ -1,0 +1,29 @@
+h1{
+    color:red; 
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+header{
+    margin-top: 16px;
+    margin-bottom: 48px;
+}
+header a{
+    color: pink;
+    margin-right: 16px;
+    text-decoration: none;
+}
+footer{
+    color:pink;
+    border-top:1px solid white;
+    margin-top: 16px;
+    padding: 16px 0;
+}
+body{
+    color: rebeccapurple;
+    font-family: Arial;
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 16px; 
+}
